@@ -2,6 +2,11 @@
 	"name": "synonymprovider",
 	"displayName": "Synonym Provider",
 	"description": "Visual studio code extension which provides synonyms and definitions using the build in completionprovider" ,
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/MartinChristiaan/VsCodeSynonymProvider"
+	},
+	
 	"icon" : "icon.png",
 	"version": "1.0.0",
 	"publisher": "MartinChristiaan",
